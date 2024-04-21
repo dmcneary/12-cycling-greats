@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/12-cycling-greats/static/css/main.7bc77500.css",
-    "main.js": "/12-cycling-greats/static/js/main.db227eb4.js",
+    "main.css": "/12-cycling-greats/static/css/main.d9a2f417.css",
+    "main.js": "/12-cycling-greats/static/js/main.a22dc176.js",
     "index.html": "/12-cycling-greats/index.html",
-    "main.7bc77500.css.map": "/12-cycling-greats/static/css/main.7bc77500.css.map",
-    "main.db227eb4.js.map": "/12-cycling-greats/static/js/main.db227eb4.js.map"
+    "main.d9a2f417.css.map": "/12-cycling-greats/static/css/main.d9a2f417.css.map",
+    "main.a22dc176.js.map": "/12-cycling-greats/static/js/main.a22dc176.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bc77500.css",
-    "static/js/main.db227eb4.js"
+    "static/css/main.d9a2f417.css",
+    "static/js/main.a22dc176.js"
   ]
 }
