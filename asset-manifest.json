@@ -1,28 +1,13 @@
 {
   "files": {
-    "main.css": "/12-cycling-greats/static/css/main.86eb38de.chunk.css",
-    "main.js": "/12-cycling-greats/static/js/main.506fa7cc.chunk.js",
-    "main.js.map": "/12-cycling-greats/static/js/main.506fa7cc.chunk.js.map",
-    "runtime~main.js": "/12-cycling-greats/static/js/runtime~main.6f333c3b.js",
-    "runtime~main.js.map": "/12-cycling-greats/static/js/runtime~main.6f333c3b.js.map",
-    "static/js/2.5cb12968.chunk.js": "/12-cycling-greats/static/js/2.5cb12968.chunk.js",
-    "static/js/2.5cb12968.chunk.js.map": "/12-cycling-greats/static/js/2.5cb12968.chunk.js.map",
+    "main.css": "/12-cycling-greats/static/css/main.7bc77500.css",
+    "main.js": "/12-cycling-greats/static/js/main.db227eb4.js",
     "index.html": "/12-cycling-greats/index.html",
-    "precache-manifest.4a9da3a41be60ed76d9f33767f8d8d9d.js": "/12-cycling-greats/precache-manifest.4a9da3a41be60ed76d9f33767f8d8d9d.js",
-    "service-worker.js": "/12-cycling-greats/service-worker.js",
-    "static/css/main.86eb38de.chunk.css.map": "/12-cycling-greats/static/css/main.86eb38de.chunk.css.map",
-    "static/media/anquetil.png": "/12-cycling-greats/static/media/anquetil.8e3a8b8b.png",
-    "static/media/armstrong.jpg": "/12-cycling-greats/static/media/armstrong.1eda80d3.jpg",
-    "static/media/bartali-full.jpg": "/12-cycling-greats/static/media/bartali-full.3b3cd05c.jpg",
-    "static/media/bartali.jpg": "/12-cycling-greats/static/media/bartali.03c35ee6.jpg",
-    "static/media/contador.jpg": "/12-cycling-greats/static/media/contador.e21cd45e.jpg",
-    "static/media/froome.jpg": "/12-cycling-greats/static/media/froome.4c52b6e4.jpg",
-    "static/media/hinault.jpg": "/12-cycling-greats/static/media/hinault.d5d88a72.jpg",
-    "static/media/indurain.jpg": "/12-cycling-greats/static/media/indurain.394e1853.jpg",
-    "static/media/kelly.jpg": "/12-cycling-greats/static/media/kelly.c0106821.jpg",
-    "static/media/lemond.jpg": "/12-cycling-greats/static/media/lemond.e79f5fd7.jpg",
-    "static/media/merckx.jpg": "/12-cycling-greats/static/media/merckx.855b5a34.jpg",
-    "static/media/pantani.jpg": "/12-cycling-greats/static/media/pantani.5c2632c5.jpg",
-    "static/media/sagan.jpg": "/12-cycling-greats/static/media/sagan.df12a959.jpg"
-  }
+    "main.7bc77500.css.map": "/12-cycling-greats/static/css/main.7bc77500.css.map",
+    "main.db227eb4.js.map": "/12-cycling-greats/static/js/main.db227eb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bc77500.css",
+    "static/js/main.db227eb4.js"
+  ]
 }
