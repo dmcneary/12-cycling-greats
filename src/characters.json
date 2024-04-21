@@ -2,73 +2,85 @@
     {
         "key": 1,
         "name": "Jacques Anquetil",
-        "image": "anquetil.png",
-        "message":"Jacques Anquetil was a French road racing cyclist and the first cyclist to win the Tour de France five times, in 1957 and from 1961 to 1964."
+        "image": "/images/anquetil.webp",
+				"videoSlug": "d987Ewejbh4",
+        "message":"Jacques Anquetil was a French road racing cyclist and the first cyclist to win the Tour de France five times, in 1957 and from 1961 to 1964. His victories in stage races such as the Tour were built on an exceptional ability to ride alone against the clock in individual time trial stages, which lent him the name 'Monsieur Chrono'. He won eight Grand Tours in his career, which was a record when he retired and has only since been surpassed by Eddy Merckx and Bernard Hinault. Anquetil never hid that he took drugs and in a debate with a government minister on French television said only a fool would imagine it was possible to ride Bordeaux-Paris on just water. He and other cyclists had to ride through \"the cold, through heatwaves, in the rain and in the mountains\", and they had the right to treat themselves as they wished, he said, before adding: \"Leave me in peace; everybody takes dope.\" There was implied acceptance of doping right to the top of the state: Charles de Gaulle said: \"Doping? What doping? Did he or did he not make them play the Marseillaise abroad?\""
     },
     {
         "key": 2,
         "name": "Lance Armstrong",
-        "image": "armstrong.jpg",
-        "message":"Lance Edward Armstrong is an American former professional road racing cyclist, infamous for the biggest doping scandal in cycling history. At age 16, Armstrong began competing as a triathlete and was a national sprint-course triathlon champion in 1989 and 1990."
+        "image": "/images/armstrong.webp",
+				"videoSlug": "IwkndsmCIdU",
+        "message":"Lance Edward Armstrong is an American former professional road racing cyclist. He achieved international fame for winning the Tour de France a record seven consecutive times from 1999 to 2005, but was stripped of his titles after an investigation into doping allegations, called the Lance Armstrong doping case, found he used performance-enhancing drugs over his career. While maintaining his innocence, Armstrong chose not to contest the charges, citing the potential toll on his family. He received a lifetime ban from all sports that follow the World Anti-Doping Code, ending his competitive cycling career. In January 2013, Armstrong publicly admitted his involvement in doping. In April 2018, Armstrong settled a civil lawsuit with the United States Department of Justice and agreed to pay US$5 million to the U.S. government"
     },
     {
         "key": 3,
         "name": "Gino Bartali",
-        "image": "bartali.jpg",
-        "message":"Gino Bartali Cavaliere di Gran Croce OMRI, nicknamed Gino the Pious and Ginettaccio, was a champion road cyclist. He was the most renowned Italian cyclist before the Second World War, having won the Giro d'Italia twice and the Tour de France in 1938."
+        "image": "/images/bartali.webp",
+				"videoSlug": "jsD6v01f_Oo",
+        "message":"Gino Bartali, OMRI nicknamed \"Gino the Pious\" and (in Italy) \"Ginettaccio\", was a champion road cyclist. He was the most renowned Italian cyclist before the Second World War, having won the Giro d'Italia twice, in 1936 and 1937, and the Tour de France in 1938. After the war, he added one more victory in each event: the Giro d'Italia in 1946 and the Tour de France in 1948. His second and last Tour de France victory in 1948 gave him the largest gap between victories in the race. In September 2013, 13 years after his death, Bartali was recognised as a \"Righteous Among the Nations\" by Yad Vashem for his efforts to aid Jews during World War II."
     },
     {
         "key": 4,
         "name": "Alberto Contador",
-        "image": "contador.jpg",
-        "message":"Alberto Contador Velasco is a Spanish former professional cyclist. He is one of the most successful riders of his era, winning the Tour de France twice, the Giro d'Italia twice, and the Vuelta a España three times. He is one of only seven riders to have won all three Grand Tours of cycling."
+        "image": "/images/contador.webp",
+				"videoSlug": "r3s7TWWoNKs",
+        "message":"Alberto Contador Velasco is a Spanish former professional cyclist. He was regarded as the natural successor of Lance Armstrong and won the 2007 Tour de France with the Discovery Channel team. During his time at the Astana team, he won the 2008 Giro d'Italia, the 2008 Vuelta a España and the 2009 Tour de France. Between 2007 and 2011 he won six consecutive Grand Tours. He is one of only seven riders to have won all three Grand Tours of cycling, and one of only two riders to have won all three more than once. Contador was known as an attacking rider who excelled as a climber, and on his best days was also an excellent time-trialist."
     },
     {
         "key": 5,
         "name": "Greg LeMond",
-        "image": "lemond.jpg",
-        "message":"Gregory James LeMond is an American former professional road racing cyclist who won the Road Race World Championship twice, the Tour de France three times and is considered by many to be the greatest American cyclist of all time. He is also an entrepreneur and anti-doping advocate."
+        "image": "/images/lemond.webp",
+				"videoSlug": "fO1G6zaZX38",
+        "message":"Gregory James LeMond is an American former road racing cyclist. LeMond began his professional cycling career in 1981. Two years later, he became the first American male cyclist to win the Road World Championship. LeMond won the Tour de France in 1986; he is the first non-European professional cyclist to win the men's Tour. LeMond was accidentally shot with pellets and seriously injured while hunting in 1987. Following the shooting, he underwent two surgeries and missed the next two Tours. At the 1989 Tour, LeMond completed an improbable comeback to win in dramatic fashion on the race's final stage. He successfully defended his Tour title the following year, becoming one of only eight riders to win three or more Tours. LeMond retired from competition in December 1994 and was inducted into the United States Bicycling Hall of Fame in 1996. LeMond championed several technological advancements in pro cycling, including the introduction of aerodynamic \"triathlon\" handlebars and carbon fiber bicycle frames."
     },
     {
         "key": 6,
         "name": "Chris Froome",
-        "image": "froome.jpg",
-        "message":"Christopher Clive Froome, OBE is a British road racing cyclist, who currently rides for UCI WorldTeam Team Sky. Considered by many as one of the greatest stage racing cyclists of all time. He has won all of cycling’s three grand tours."
+        "image": "/images/froome.webp",
+				"videoSlug": "52xv2Hg2fkI",
+        "message":"Christopher Clive Froome, OBE is a Kenyan-British professional road racing cyclist who currently rides for UCI ProTeam Israel-Premier Tech. He has won seven Grand Tours: four editions of the Tour de France, one Giro d'Italia and the Vuelta a España twice. He has also won several other stage races, and the Vélo d'Or three times. Froome has also won two Olympic bronze medals in road time trials, in 2012 and 2016, and took bronze in the 2017 World Championships. He won his fourth Tour de France in 2017, followed by successive wins at the 2017 Vuelta a España and the 2018 Giro d'Italia, his first victories in both races. These achievements made him the first cyclist to win the Tour-Vuelta double since the Vuelta was moved to September, the first rider to achieve any Grand Tour double in nearly a decade, and the first to hold all three Grand Tour winners' jerseys at the same time since Bernard Hinault in 1983."
     },
     {
         "key": 7,
         "name": "Bernard Hinault",
-        "image": "hinault.jpg",
-        "message":"Bernard Hinault is a French former professional cyclist. With a large number of victories, including five in the Tour de France, he is often named among the greatest cyclists of all time. Hinault started cycling as an amateur in his native Brittany."
+        "image": "/images/hinault.webp",
+				"videoSlug": "t3M3gNQ9HUM",
+        "message":"Bernard Hinault is a French former professional road cyclist. With 147 professional victories, including five times the Tour de France, he is often named among the greatest cyclists of all time. In his career, Hinault entered a total of thirteen Grand Tours. He abandoned one of them while in the lead, finished in 2nd place on two occasions and won the other ten, putting him one behind Merckx for the all-time record. No rider since Hinault has achieved more than seven. In the 1986 Tour de France, he engaged in an intra-team rivalry with Greg LeMond, who won his first of three Tours. Hinault retired at the end of the season. As of 2022 he is the most recent French winner of the Tour de France. All through his career, Hinault was known by the nickname Le Blaireau (\"The Badger\"); he associated himself with the animal due to its aggressive nature, a trait he embodied on the bike."
     },
     {
         "key": 8,
         "name": "Miguel Indurain",
-        "image": "indurain.jpg",
-        "message":"Miguel Induráin Larraya is a retired Spanish road racing cyclist. Induráin won five Tours de France from 1991 to 1995, the fourth, and last, to win five times, and the only five-time winner to achieve those victories consecutively."
+        "image": "/images/indurain.webp",
+				"videoSlug": "8Cqcxu3irww",
+        "message":"Miguel Induráin Larraya is a retired Spanish road racing cyclist. Induráin won five Tours de France from 1991 to 1995, the fourth, and last, to win five times, and the only five-time winner to achieve those victories consecutively. He won the Giro d'Italia twice, becoming one of seven people to achieve the Giro-Tour double in the same season. He holds the record for the most consecutive Tour de France wins and shares the record for most wins with Jacques Anquetil, Bernard Hinault and Eddy Merckx. He is the most recent cyclist, and one of the very few cyclists, to have come close to cycling's 'Triple Crown' when in 1993, after having already won the Giro and the Tour, he finished just 0:19 behind in the World Championship. Induráin's ability and physical size earned him the nickname \"Miguelón\" or \"Big Mig.\""
     },
     {
         "key": 9,
         "name": "Sean Kelly",
-        "image": "kelly.jpg",
-        "message":"John James 'Sean' Kelly is an Irish former professional road bicycle racer, one of the most successful road cyclists of the 1980s, and one of the finest classics riders of all time. From turning professional in 1977 until his retirement in 1994, he won nine monument classics, and 193 professional races in total."
+        "image": "/images/kelly.webp",
+				"videoSlug": "34R9yXKjtCE",
+        "message":"John James 'Sean' Kelly is an Irish former professional road bicycle racer, one of the most successful road cyclists of the 1980s, and one of the finest Classics riders of all time. From becoming a professional in 1977 until his retirement in 1994, he won 193 professional races, including nine Monument Classics, Paris-Nice a record seven years consecutively and the first UCI Road World Cup in 1989. Kelly won one Grand Tour, the 1988 Vuelta a España, and four green jerseys in the Tour de France. He achieved multiple victories in the Giro di Lombardia, Milan-San Remo, Paris-Roubaix and Liège–-astogne-Liège. Other victories include the Grand Prix des Nations and stage races, the Critérium International, Tour de Suisse, Tour of the Basque Country and Volta a Catalunya. When the FICP rankings became established in March 1984, Kelly was the first cyclist to be ranked World No.1, a position he held for a record five consecutive years."
     },
     {
         "key": 10,
         "name": "Eddy Merckx",
-        "image": "merckx.jpg",
-        "message":"Édouard Louis Joseph, Baron Merckx, better known as Eddy Merckx, is a Belgian former professional road and track bicycle racer who is widely seen as the most successful rider in the history of competitive cycling."
+        "image": "/images/merckx.webp",
+				"videoSlug": "3LkU_3AutNw",
+        "message":"Édouard Louis Joseph, Baron Merckx, is a Belgian former professional road and track cyclist racer who is the most successful rider in the history of competitive cycling. His victories include an unequalled eleven Grand Tours (five Tours de France, five Giros d'Italia, and a Vuelta a España), all five Monuments, three World Championships, every major one-day race other than Paris-Tours, and extensive victories on the track. Merckx broke the hour record in October 1972, extending the record by almost 800 metres. He acquired the nickname \"The Cannibal\", suggested by the daughter of a teammate upon being told by her father of how Merckx would not let anyone else win. Merckx achieved 525 victories over his eighteen-year career."
     },
     {
         "key": 11,
         "name": "Marco Pantani",
-        "image": "pantani.jpg",
-        "message":"Marco Pantani was an Italian road racing cyclist, widely considered one of the best climbers of all times in professional road bicycle racing. He was implicated in a doping scheme and was ostracized from the sport, and later died from a cocaine overdose"
+        "image": "/images/pantani.webp",
+				"videoSlug": "RRXXTV4wDg8",
+        "message":"Marco Pantani was an Italian road racing cyclist, widely regarded as one of the greatest climbing specialists in the history of the sport. He recorded the fastest ever climbs up the Tour's iconic venues of Mont Ventoux (46:00) and Alpe d'Huez (36:50). He is the last rider and one of only seven to ever win the Tour de France - Giro d'Italia double, doing so in 1998. He is the sixth of seven Italians to win the Tour de France. Pantani's cycling style was off-the-saddle, and was a relentless climbing style. His early death caused by acute cocaine poisoning in 2004 has further turned the cyclist into a popular icon. The narrative was cultivated by Pantani, who picked the nickname \"Il Pirata\" (\"The Pirate\") because of his shaven head and the bandana and earrings he wore. Although Pantani never tested positive during his career, his career was beset by doping allegations. In the 1999 Giro d'Italia, he was expelled due to his irregular blood values. Although he was disqualified for \"health reasons\", it was implied that Pantani's high haematocrit was the product of EPO use. Following later accusations, Pantani went into a severe depression from which he never fully recovered, ultimately leading to his death in 2004."
     },
     {
         "key": 12,
         "name": "Peter Sagan",
-        "image": "sagan.jpg",
-        "message":"Peter Sagan is a Slovak professional road bicycle racer, who currently rides for UCI WorldTeam Bora–Hansgrohe. Sagan had a successful junior cyclo-cross and mountain bike racing career, winning the Junior Mountain Bike World Championship in 2008, before moving to road racing."
+        "image": "/images/sagan.webp",
+				"videoSlug": "T0phjIVH1lk",
+        "message":"Peter Sagan is a Slovak professional cyclist, who competes in road bicycle racing for UCI Continental team Pierre Baguette Cycling. Sagan had a successful junior cyclo-cross and mountain bike racing career, winning the junior cross-country race at the 2008 UCI Mountain Bike & Trials World Championships, before moving to road racing and achieving 121 victories to date, including including three consecutive World Championships, one European Championship, two Paris-Nice stages, seven Tirreno-Adriatico stages, one in the Tour de Romandie, three and the overall classification in the Tour de Pologne, a record seventeen stages and the overall in the Tour of California and another fifteen in the Tour de Suisse. After having become the first rider to win the points classification of the Tour de France on his first five attempts, he went on to win it a record seven times, every year from 2012 to 2019. Following his win at the 2017 UCI World Road Race Championships, Sagan wore the rainbow jersey for the duration of 2018 for an unprecedented third consecutive season."
     }
 ]
