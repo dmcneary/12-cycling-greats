@@ -67,7 +67,7 @@ export default function App() {
 			}
 			<p className="text-slate-600 font-semibold">Your score: {choices.size}</p>
 		</Modal>
-		<div className="mx-auto py-8 px-10 h-dvh md:min-h-screen flex flex-col gap-8">
+		<div className="mx-auto py-8 px-10 md:min-h-min flex flex-col gap-8">
 			<Header score={choices.size} topScore={topScore} />
 			<div className="flex flex-col-reverse lg:flex-row min-w-fit justify-stretch gap-4">
 				<div className="text-slate-800 text-left w-full lg:w-5/12">
